@@ -1,6 +1,3 @@
-Crypton Core 1.10
-==================
-
 Intro
 -----
 Crypton is a free open source peer-to-peer electronic cash system that is
@@ -17,7 +14,3 @@ Crypton Core is the original Crypton client and it builds the backbone of the ne
 However, it downloads and stores the entire history of Crypton transactions;
 depending on the speed of your computer and network connection, the synchronization
 process can take anywhere from a few hours to a day or more.
-
-See the Crypton wiki at:
-  https://www.reddit.com/r/crypton/wiki/cryptoncoreguide
-for more help and information.
