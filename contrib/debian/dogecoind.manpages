@@ -1,0 +1,3 @@
+debian/manpages/cryptond.1
+debian/manpages/crypton.conf.5
+debian/manpages/crypton-cli.1

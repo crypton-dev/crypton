@@ -1,0 +1,2 @@
+usr/local/bin/cryptond usr/bin
+usr/local/bin/crypton-cli usr/bin

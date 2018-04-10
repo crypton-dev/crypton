@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Crypton
+Comment=Crypton P2P Cryptocurrency
+Comment[fr]=Crypton, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Crypton, eşten eşe kriptografik sanal para birimi
+Exec=crypton-qt %u
+Terminal=false
+Type=Application
+Icon=crypton128
+MimeType=x-scheme-handler/crypton;
+Categories=Office;Finance;

@@ -1,0 +1,27 @@
+# /etc/conf.d/cryptond: config file for /etc/init.d/cryptond
+
+# Config file location
+#BRICSCOIND_CONFIGFILE="/etc/crypton/crypton.conf"
+
+# What directory to write pidfile to?  (created and owned by $BRICSCOIND_USER)
+#BRICSCOIND_PIDDIR="/var/run/cryptond"
+
+# What filename to give the pidfile
+#BRICSCOIND_PIDFILE="${BRICSCOIND_PIDDIR}/cryptond.pid"
+
+# Where to write cryptond data (be mindful that the blockchain is large)
+#BRICSCOIND_DATADIR="/var/lib/cryptond"
+
+# User and group to own cryptond process
+#BRICSCOIND_USER="crypton"
+#BRICSCOIND_GROUP="crypton"
+
+# Path to cryptond executable
+#BRICSCOIND_BIN="/usr/bin/cryptond"
+
+# Nice value to run cryptond under
+#BRICSCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BRICSCOIND_OPTS="-disablewallet"
+
