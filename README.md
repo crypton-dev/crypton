@@ -1,5 +1,7 @@
 # Crypton Core [CRN]
 
+![alt text](https://avatars2.githubusercontent.com/u/38019859?s=150&v=4)
+
 ## What is Crypton? 
 Crypton is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix, Litecoin, Dogecoin, Crypton currently employs a simplified variant of scrypt.
 
